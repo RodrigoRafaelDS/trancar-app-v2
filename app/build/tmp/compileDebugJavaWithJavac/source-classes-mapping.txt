@@ -1,0 +1,12 @@
+com/trancar/android/trancar_android/BuildConfig.java
+ com.trancar.android.trancar_android.BuildConfig
+com/trancar/android/trancar_android/databinding/ItemMainInfoBinding.java
+ com.trancar.android.trancar_android.databinding.ItemMainInfoBinding
+com/trancar/android/trancar_android/databinding/MainLoginFragmentBinding.java
+ com.trancar.android.trancar_android.databinding.MainLoginFragmentBinding
+com/trancar/android/trancar_android/databinding/ItemBasicInputBinding.java
+ com.trancar.android.trancar_android.databinding.ItemBasicInputBinding
+com/trancar/android/trancar_android/databinding/FragmentMainInfoBinding.java
+ com.trancar.android.trancar_android.databinding.FragmentMainInfoBinding
+com/trancar/android/trancar_android/DataBindingTriggerClass.java
+ com.trancar.android.trancar_android.DataBindingTriggerClass
